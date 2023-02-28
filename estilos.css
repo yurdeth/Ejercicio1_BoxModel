@@ -1,0 +1,28 @@
+.principal{
+    background-color: #4E6E81;
+    width: 100%;
+}
+
+.columna{
+    background-color: cyan;
+    float: left;
+    height: 300px;
+}
+
+div:nth-child(2){
+    width: 33.33%;
+    background-color: #F9DBBB;
+}
+div:nth-child(3){
+    background-color: #FF0303;
+    width: 66.66%;
+}
+
+.footer{
+    clear: both;
+    height: 100px;
+}
+
+.uno{
+    color: white;
+}
